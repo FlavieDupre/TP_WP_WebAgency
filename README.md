@@ -1,4 +1,5 @@
 Sujet du TP :
+
 Introduction
 Vous venez d’être diplômé et vous décider de vous lancer dans la
 création d’une société de communication web.
@@ -29,3 +30,5 @@ Les références sont constituées :
 - Actions réalisées
 - Technologies utilisées (HTML 5, …)
 - Aperçu de la réalisation
+
+Site entièrement fictif pour le TP, en m'inspirant entièrement du site http://www.pigxel-web.com/
